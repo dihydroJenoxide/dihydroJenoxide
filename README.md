@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋 I'm @dihydroJenoxide
 
-<!--
-**dihydroJenoxide/dihydroJenoxide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :octocat: I’m a Senior Manager for Docs Content here at GitHub
 
-Here are some ideas to get you started:
+At work:
+- 😻 I love helping others do their best work and facillitating collaboration
+- 👩‍🏫 As a former teacher, I use a learning lens when I work on docs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For fun, I:
+- 🥾 Wander outside frequently 🏞️ 
+- 🤿 Hold my breath as long as I can and pretend I'm a mermaid 🧜‍♀️
+- 🖌️ Brush color on canvas and paper and digital spaces and walls 🎨
+
+Want to say hi? 📬 [Find me on LinkedIn](https://www.linkedin.com/in/christensen-jenni/)
+
