@@ -11,5 +11,3 @@ For fun, I:
 - 🤿 Hold my breath as long as I can and pretend I'm a mermaid 🧜‍♀️
 - 🖌️ Brush color on canvas and paper and digital spaces and walls 🎨
 
-Want to say hi? 📬 [Find me on LinkedIn](https://www.linkedin.com/in/christensen-jenni/)
-
