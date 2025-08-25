@@ -1,9 +1,9 @@
 ### Hi 👋 I'm @dihydroJenoxide
 
-#### :octocat: I’m a Senior Manager for Docs Content here at GitHub
+#### :octocat: I’m a Senior Technical Writer for [docs.github.com](https://docs.github.com/en)
 
 At work:
-- 😻 I love helping others do their best work and facillitating collaboration
+- 😻 I love analyzing and solving problems for our users
 - 👩‍🏫 As a former teacher, I use a learning lens when I work on docs
 
 For fun, I:
